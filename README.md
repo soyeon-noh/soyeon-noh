@@ -3,8 +3,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20SOYEON%20%20&height=200&fontSize=90&fontColor=ffffff)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyeon-noh)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyeon-noh&theme=light)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asoyeon-noh&show_icons=true&theme=transparent)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyeon-noh&theme=light&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
