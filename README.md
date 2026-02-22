@@ -1,7 +1,7 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=46c283&text=%20SOYEON%20%20&height=200&fontSize=90&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20SOYEON%20%20&height=200&fontSize=90&fontColor=ffffff)
 
 
 <h2 align="center">Backend Developer</h2>
