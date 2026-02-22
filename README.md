@@ -14,7 +14,7 @@
 
 <hr>
 
-# 👩🏻‍💻 About Me
+# About Me
 Java / Spring 기반 백엔드 개발자입니다.  
 
 단순 기능 구현이 아니라,
@@ -25,20 +25,20 @@ Java / Spring 기반 백엔드 개발자입니다.
 
 를 고민하며 설계합니다.
 
-# 📂 Projects
+# Projects
 
 ## 1. 웹기반 컨텐츠 기록 & 추천 플랫폼 (마음의 양식도 식이다)
 
 > 사용자의 기록과 리뷰 데이터를 구조화하는 서비스
 
-### 📌 담당 영역
+### 담당 영역
 
 - 검색 기능 설계 및 Elasticsearch 도입
 - 자동완성 기능 구현
 - 리뷰 노출 필터링 정책 설계
 - 도메인 모델 구조 설계
 
-### 🔎 검색 성능 개선 (Elasticsearch)
+### 검색 성능 개선 (Elasticsearch)
 
 기존 RDB 기반 LIKE 검색의 한계를 인지하고  
 **Elasticsearch를 도입해 자동완성 및 검색 성능 개선**을 진행했습니다.
@@ -52,7 +52,7 @@ Java / Spring 기반 백엔드 개발자입니다.
 
 “확장 가능한 검색 구조”를 만드는 데 집중했습니다.
 
-### 🛡 리뷰 스포일러 방지 필터링 정책 설계
+### 리뷰 스포일러 방지 필터링 정책 설계
 
 콘텐츠 플랫폼에서 리뷰는 핵심이지만,  
 스포일러는 사용자 경험을 크게 해칠 수 있습니다.
@@ -75,14 +75,14 @@ UX 관점에서 정책을 고민한 경험입니다.
 
 > 동시 사용자 상호작용을 고려한 구조 설계
 
-### 📌 담당 영역
+### 담당 영역
 
 - WebSocket 기반 채팅 및 실시간 이벤트 처리
 - 좋아요 기능 성능 개선 (N+1 문제 해결)
 - OCR 기능 구조 설계
 - AI 모델 도입 검토 및 대체 전략 설계
 
-### ⚡ WebSocket 기반 실시간 처리
+### WebSocket 기반 실시간 처리
 
 - STOMP 기반 WebSocket 구성
 - 이벤트 브로드캐스트 설계
@@ -91,7 +91,7 @@ UX 관점에서 정책을 고민한 경험입니다.
 실시간 기능은 “동작”보다  
 **안정성과 흐름 설계**가 더 중요하다고 판단했습니다.
 
-### 📉 좋아요 기능 N+1 문제 해결
+### 좋아요 기능 N+1 문제 해결
 
 초기 구현에서는 조회 시 N+1 문제가 발생했습니다.
 
@@ -104,7 +104,7 @@ UX 관점에서 정책을 고민한 경험입니다.
 결과적으로  
 조회 성능 개선 및 쿼리 수 감소를 달성했습니다.
 
-### 🤖 OCR 기능 설계 — 온디바이스 vs AI 모델
+### OCR 기능 설계 — 온디바이스 vs AI 모델
 
 OCR 기능 도입 시 다음을 검토했습니다:
 
@@ -133,9 +133,9 @@ OCR 기능 도입 시 다음을 검토했습니다:
 
 ---
 
-## 📊 Collaboration & Process
+## Collaboration & Process
 
-### 🔹 JIRA 기반 스프린트 운영
+### JIRA 기반 스프린트 운영
 
 - Epic / Story / Task 단위 분리
 - 스토리 포인트 산정
@@ -149,13 +149,13 @@ OCR 기능 도입 시 다음을 검토했습니다:
 
 ## 🛠 Tech Stacks
 
-### 🔹 Backend
+### Backend
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logoColor=white)
 
-### 🔹 Front / App
+### Front / App
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
